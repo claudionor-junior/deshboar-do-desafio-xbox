@@ -12,6 +12,6 @@ Facilitar a análise dos dados de vendas de forma rápida e intuitiva, ajudando 
 
 🧩 Funcionalidades do Dashboard
 Métrica	Descrição
-💰 Total de Vendas por Mês	Exibe o somatório dos valores vendidos mês a mês. Ideal para identificar tendências e sazonalidades.
+💰 Total de Vendas por Mês	Exibe o somatório dos valores vendidos mês. Ideal para identificar tendências e sazonalidades.
 🎟️ Quantidade de Cupons Vendidos	Mostra quantos cupons de venda foram emitidos em cada mês. Isso representa a frequência de vendas.
 🧾 Número de Cupons	Indica o número único de cupons utilizados ou emitidos. Útil para análise de volume de transações.
